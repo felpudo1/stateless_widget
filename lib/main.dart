@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Stateless widget BAR"),
+        title: Text("statelesswidget"),
       ),
       body: Container(
         child: Column(
